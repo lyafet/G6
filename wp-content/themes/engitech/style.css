@@ -1984,7 +1984,7 @@ a:active {
   left: 0;
   top: 50%;
   margin: -2px 0 0;
-  background: #0a0a0af7;
+  background: #f3a60ef7;
   height: 3px;
   padding: 0;
   border: none;
@@ -2005,7 +2005,7 @@ a:active {
   top: -8px;
   width: 26px;
   height: 3px;
-  background: #0a0a0af7;
+  background: #f3a60ef7;
   -webkit-transform-origin: 1.5px center;
   transform-origin: 1.5px center;
   transition: all 0.3s ease;
@@ -2023,7 +2023,7 @@ a:active {
   bottom: -8px;
   width: 26px;
   height: 3px;
-  background: #0a0a0af7;
+  background: #f3a60ef7;
   -webkit-transform-origin: 1.5px center;
   transform-origin: 1.5px center;
   transition: all 0.3s ease;
