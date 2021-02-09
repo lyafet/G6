@@ -206,13 +206,13 @@ body:not(.rtl)
   border-width: 0px 1px 0px 0px;
   border-color: #ffffff33;
 }
-.elementor-2840 .elementor-element.elementor-element-4994a43 {
-  border-style: solid;
+/* .elementor-2840 .elementor-element.elementor-element-4994a43 {
+  /* border-style: solid;
   border-width: 0px 0px 1px 0px;
-  border-color: #141d3826;
+  border-color: #141d3826; */
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   height: 80px;
-}
+} */
 .elementor-2840
   .elementor-element.elementor-element-4994a43
   > .elementor-background-overlay {

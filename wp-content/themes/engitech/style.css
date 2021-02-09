@@ -1275,11 +1275,11 @@ a:active {
 }
 
 .site-header {
-  background: #213d2c78;
-  position: relative;
-  z-index: 10;
+  position: fixed;
+  margin-left: 180px;
+  z-index: 99;
   height:80px;
-  box-shadow: rgb(0 0 0 / 10%) 15px 15px 38px 0px;
+  
 }
 .site-header.header-overlay {
   background: transparent;
@@ -1466,7 +1466,7 @@ a:active {
   text-decoration: none;
   text-align: center;
   outline: none;
-  color: #000;
+  color: #fff;
   white-space: nowrap;
   -webkit-transition: all 0.2s ease-out 0s;
   -moz-transition: all 0.2s ease-out 0s;
@@ -1878,10 +1878,10 @@ a:active {
   }
 }
 .is-stuck {
-  background-color: #fff;
+  background-color: #97a09c;
   -webkit-box-shadow: 4px 4px 30px 0px rgba(42, 67, 113, 0.15);
   -moz-box-shadow: 4px 4px 30px 0px rgba(42, 67, 113, 0.15);
-  box-shadow: 4px 4px 30px 0px rgba(42, 67, 113, 0.15);
+  box-shadow: 4px 4px 30px 0px #0272fafc;
   -webkit-animation: stickySlideDown 0.65s cubic-bezier(0.23, 1, 0.32, 1) both;
   -moz-animation: stickySlideDown 0.65s cubic-bezier(0.23, 1, 0.32, 1) both;
   animation: stickySlideDown 0.65s cubic-bezier(0.23, 1, 0.32, 1) both;
